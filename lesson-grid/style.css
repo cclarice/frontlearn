@@ -1,0 +1,17 @@
+.grid-12 {
+  display: grid;
+  grid-template-columns: 20px 20px 20px 20px 20px 20px 20px 20px 20px 20px 20px 20px;
+  grid-template-rows: 20px 20px 20px 20px 20px 20px 20px 20px 20px 20px 20px 20px;
+}
+
+.bg-gray {
+  background: #717790;
+}
+
+.bg-red {
+  background: #ff3c41;
+}
+
+.bg-blue {
+  background: #0ebeff;
+}
