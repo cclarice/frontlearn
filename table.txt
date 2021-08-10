@@ -1,0 +1,14 @@
+table - таблица
+	caption - заголовок самой таблицы
+	thead - заголовок
+		th - элемент заголовка
+	tbody - тело таблицы
+		tr - строка
+		td - колонки
+
+caption
+	caption-side - top/bottom
+
+th, tr, td
+	colspan - высота в ячейках
+	rowspan - ширина в ячейках
